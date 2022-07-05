@@ -1,6 +1,6 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=apidboy&theme=github_dark&show_icons=true&count_private=true&hide_border=true&icon_color=ffd707)](https://github.com/ApidBoy)
-- 👋 Hi, I’m Samarth Singh Bachhotiya
-- 👀 I’m interested in Programming, Web Development and Cyber Security and I love to contribute to the Open-Source community :).
+- 👋 Hi, I’m Samarth Singh Bachhotiya.
+- 👀 I’m interested in Programming, Web Development and Cyber Security and I love to contribute to the Open-Source community. :)
 - 🌱 I’m currently learning MERN Stack and Data Structures and Algorithms.
 - 📫 You can reach me via my [e-mail](mailto:samarthsb@duck.com).
 
