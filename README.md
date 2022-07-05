@@ -7,7 +7,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ApidBoy&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=0D1117&background=0D1117&fire=FFD707&ring=FFD707&currStreakLabel=FFD707)](https://github.com/ApidBoy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apidboy&layout=compact&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/apidboy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apidboy&layout=compact&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/ApidBoy)
 
 <!---
 ApidBoy/ApidBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
