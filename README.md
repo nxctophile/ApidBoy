@@ -1,4 +1,4 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=apidboy&theme=github_dark&show_icons=true&count_private=true&hide_border=true&icon_color=ffd707)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=apidboy&theme=github_dark&show_icons=true&count_private=true&hide_border=true&icon_color=ffd707)](https://github.com/ApidBoy)
 - 👋 Hi, I’m @ApidBoy
 - 👀 I’m interested in Cyber security and would love to contribute to the Open-source community :).
 - 🌱 I’m currently learning Data Structures and Algorithms.
