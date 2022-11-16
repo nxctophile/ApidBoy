@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samarth Singh Bachhotiya.
-- 🖥️ I'm pursuing Bachelor in Computer Application (BCA) Specialized in Artificial Intelligence and Data Analytics from LNCT Bhopal.
+- 🖥️ I'm pursuing Bachelor in Computer Application (BCA) from LNCT Bhopal.
 - 👀 I’m interested in Programming, Web Development and Cyber Security and I love to contribute to the Open-Source community. :)
 - 🌱 I’m currently learning MERN Stack and Data Structures and Algorithms.
 - 📫 You can reach me via my [e-mail](mailto:samarthsb@duck.com).
